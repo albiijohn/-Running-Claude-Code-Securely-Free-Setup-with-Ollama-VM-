@@ -224,7 +224,7 @@ This setup is useful for:
 
 * Pentesters
 * SOC analysts testing scripts
-* Red team lab environments
+* Red team lab environments 
 * Security researchers experimenting with AI agents
 
 ---
